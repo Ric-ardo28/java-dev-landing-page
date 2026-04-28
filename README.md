@@ -6,6 +6,14 @@ A proposta do Java.Dev é ser uma comunidade gratuita, feita **por iniciante par
 
 ---
 
+## Site publicado
+
+Acesse a landing page publicada na Vercel:
+
+[https://java-dev-one.vercel.app](https://java-dev-one.vercel.app)
+
+---
+
 ## Sobre o projeto
 
 A landing page foi criada para explicar de forma clara o que é a comunidade **Java.Dev** e incentivar novos estudantes a entrarem no servidor do Discord.
@@ -193,7 +201,7 @@ Deploy
 Após o deploy, a Vercel vai gerar um link público parecido com:
 
 ```text
-https://java-dev-landing-page.vercel.app
+https://java-dev-one.vercel.app
 ```
 
 ---
@@ -245,6 +253,10 @@ Algumas ideias para evoluir o projeto:
 Projeto em desenvolvimento.
 
 A primeira versão da landing page já apresenta a proposta da comunidade, botões de acesso, informações do autor e contador de visitas.
+
+Site publicado:
+
+[https://java-dev-one.vercel.app](https://java-dev-one.vercel.app)
 
 ---
 
