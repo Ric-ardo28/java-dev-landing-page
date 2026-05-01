@@ -1,16 +1,18 @@
 # Java.Dev Landing Page
 
-Landing page oficial da comunidade **Java.Dev**, um projeto criado para divulgar o servidor no Discord e apresentar o objetivo da comunidade para novos participantes.
+Landing page oficial da comunidade **Java.Dev**, criada para divulgar o servidor no Discord e apresentar a proposta da comunidade para novos participantes.
 
 A proposta do Java.Dev é ser uma comunidade gratuita, feita **por iniciante para iniciante**, com foco em estudos, grupos de estudo, troca de dúvidas, dicas de cursos gratuitos, vídeos, vagas, networking e evolução na área de desenvolvimento back-end com Java.
 
 ---
 
-## Site publicado
+## Links principais
 
-Acesse a landing page publicada na Vercel:
+- Site publicado: [https://java-dev-one.vercel.app](https://java-dev-one.vercel.app)
+- Comunidade no Discord: [https://discord.gg/6WfsVRCdqY](https://discord.gg/6WfsVRCdqY)
+- LinkedIn do autor: [linkedin.com/in/ricardo-r-santana](https://www.linkedin.com/in/ricardo-r-santana/)
 
-[https://java-dev-one.vercel.app](https://java-dev-one.vercel.app)
+O convite do Discord usado na página aponta para o servidor **Java.dev**.
 
 ---
 
@@ -77,6 +79,8 @@ A landing page possui:
 - identidade visual baseada na marca Java.Dev;
 - botão para entrar no Discord;
 - botão para acessar o LinkedIn do autor;
+- metatags para compartilhamento social;
+- estado de foco para navegação por teclado;
 - seção explicando o objetivo da comunidade;
 - seção sobre a proposta do projeto;
 - trilha de estudos sugerida;
@@ -90,7 +94,7 @@ A landing page possui:
 
 Entre na comunidade Java.Dev pelo Discord:
 
-[Entrar no Discord](https://discord.gg/PPUaYePqWp)
+[Entrar no Discord](https://discord.gg/6WfsVRCdqY)
 
 ---
 
@@ -242,7 +246,7 @@ Algumas ideias para evoluir o projeto:
 - criar uma página separada para roadmap de estudos;
 - adicionar formulário para sugestões de cursos e materiais;
 - integrar Vercel Analytics;
-- melhorar o SEO da página;
+- ampliar o SEO com dados estruturados;
 - adicionar animações leves;
 - criar uma versão com React no futuro.
 
@@ -250,9 +254,9 @@ Algumas ideias para evoluir o projeto:
 
 ## Status do projeto
 
-Projeto em desenvolvimento.
+Projeto publicado e em evolução.
 
-A primeira versão da landing page já apresenta a proposta da comunidade, botões de acesso, informações do autor e contador de visitas.
+A versão atual já apresenta a proposta da comunidade, botões de acesso, informações do autor, contador de visitas, ajustes de responsividade, metatags sociais e melhorias básicas de acessibilidade.
 
 Site publicado:
 
